@@ -1,1 +1,2 @@
 second file- changes made by another developer
+line 2 wriiten by developer 2
